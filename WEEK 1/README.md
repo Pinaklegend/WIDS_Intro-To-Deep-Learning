@@ -1,4 +1,4 @@
-3 SECTION 1
+# SECTION 1
 
 We'll begin by mastering Python. Jupyter Notebooks provide an interactive platform for coding, data visualization, and documentation. It's an ideal environment for 
 Python. Check out the installation procedure in the linked playlist.
