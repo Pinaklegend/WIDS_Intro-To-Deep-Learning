@@ -15,3 +15,5 @@ Optional videos are available below, in case they are needed. Feel free to explo
 the topics covered.
 
 https://youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm&si=looyoky6rZEXy4E9 
+
+Try to complete the above in 2-3 days to get a good grasp of this language.
