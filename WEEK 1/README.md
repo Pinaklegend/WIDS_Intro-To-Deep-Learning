@@ -42,7 +42,7 @@ Matplotlib is a versatile Python library for creating static, animated, and inte
 
 https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python
 
-### SECTION 3 
+## SECTION 3 
 Let's commence our journey into Machine Learning, focusing on the foundational concept of regression. In this phase, we'll explore various types of regression, gaining insights into linear, polynomial, and other regression models.
 To access the below resource, kindly register and sign up on Coursera. There is no initial payment required for initiating the code. Opt for the "Audit the course" option to begin without any cost.
 
