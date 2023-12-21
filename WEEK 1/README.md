@@ -52,3 +52,5 @@ Simply watch the Week 1 videos of this course to grasp the fundamental concepts 
 
 
 This concludes the content of Week 1 of our project. Now, it's time to immerse ourselves in the exciting world of neural networks and deep learning. Begin by watching the provided video links, marking the start of this intriguing exploration.
+
+https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
