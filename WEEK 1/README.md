@@ -29,6 +29,7 @@ There is no need of memorizing all the libraries function. HOwever it is necessa
 NumPy is a crucial Python library for scientific computing, featuring multi-dimensional array support, matrices, and a suite of mathematical functions. Widely employed in machine learning, data analysis, and scientific research. Usually used to perform a wide variety of mathematical operations on arrays. Watch the following tutorial for good understanding.
 
 https://www.youtube.com/watch?v=QUT1VHiLmmI (watch in 2x)
+
 https://numpy.org/doc/stable/user/absolute_beginners.html
 
 ### Pandas
