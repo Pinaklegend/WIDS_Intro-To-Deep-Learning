@@ -1,4 +1,4 @@
-#WEEK 2
+# WEEK 2
 
 Now that we have made ouselves comfortable python coding and Numpy it is time to start our jounrey on Neural Networking. You can start by following the below resources for the same. During this week you will become
 acquainted with Artificial Neural Networks, which have proven to be highly effective in solving complex problems of different domains. Artificial Neural Networks (ANNs) are versatile machine learning models inspired
