@@ -24,6 +24,7 @@ Transformers mark a significant leap in neural networks for processing sequences
 It's like understanding the context of each puzzle piece based on its connection with others. Self-attention helps the model grasp how each element relates to the rest. This ability makes transformers excellent at tasks where the context and relations between elements matter. This innovation has propelled AI's capabilities in various applications involving sequences, especially in applications related to NLP.
 
 https://jalammar.github.io/illustrated-transformer/   A very informative and easy to understand post on how transformers work
+
 https://www.youtube.com/watch?v=zxQyTK8quyY  by StatQuest with Josh Starmer
 
 ## Large Language Models (LLM)
@@ -32,12 +33,14 @@ Large Language Models, like transformers, represent a substantial advancement in
 Most LLMs nowadays use transformer architecture, and the terms are quite often used interchangeably. The major difference that LLMs have in comparision to traditional language models is that at such massive scales with large amounts of training data, these models start to exhibit "emergent properties" like zero-shot learning, where models are able to perform tasks they were never explicitly trained for with remarkable proficiency.
 
 https://research.aimultiple.com/large-language-models/
+
 https://www.geeksforgeeks.org/large-language-model-llm/
 
 ## Decoding Strategies
 Decoding strategies refer to techniques used to influence the output sequences generated from the model's learned representations - the process of producing meaningful and coherent sequences of text based on the model's predictions. While it might seem like the right choice would be to always use the most probable prediction by the network, this many times leads to repititive and unnatural results. Many different strategies like random sampling and temperature scaling are employed - usually in combination - to get the desired kind of responses.
 
 https://huggingface.co/blog/how-to-generate
+
 https://txt.cohere.com/llm-parameters-best-outputs-language-ai/
 
 ## Hugging Face 🤗
@@ -60,6 +63,7 @@ Building an LLM from scratch is no easy task; it requires a massive amount of tr
 
 Refer to the below links to get an idea of the pretraining process, and you will be able to appreciate the use of fine-tuning a lot more.
 https://bekushal.medium.com/pre-training-fine-tuning-and-in-context-learning-in-large-language-models-llms-dd483707b122
+
 https://www.nitorinfotech.com/blog/training-large-language-models-llms-techniques-and-best-practices/
 
 
