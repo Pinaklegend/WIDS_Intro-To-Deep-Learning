@@ -12,7 +12,9 @@ https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep
 Now we will explore the seemingly complex structure of transformers, and uncover the simple components inside them that together power a large portion of the ongoing AI revolution. You will also learn about the most important innovation from previous sequential data processing techniques- attention. We will end by looking at how they power Large Language Models, like the now ubiquitous GPTs. Start with the following resources
 
 https://youtu.be/CMrHM8a3hqw?si=CG1lwW5DL_nQVSQA
+
 https://www.geeksforgeeks.org/natural-language-processing-overview/
+
 https://youtu.be/viZrOnJclY0?si=kS7WCSG6DPK6vrcw
 
 This page contains links to section-wise resources on this week's topics. Please go through all of them carefully.
